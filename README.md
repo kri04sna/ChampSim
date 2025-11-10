@@ -65,14 +65,6 @@ Sets are classified as Very Hot, Hot, Very Cold, and Cold based on access and ev
 - Here , We have Some Potential sets that Need to be checked while remapping
 
   
-## Team Members
-
-| Name                     | Entry Number |
-|--------------------------| -------------|
-| [Prashant Kumar](https://github.com/Prashant370)            | 2022CSB1202  |
-| [Pranav Dipesh Bhole](https://github.com/pranavbhole123) | 2022CSB1103  |
-| [Kartikey Sahu](https://github.com/kartikeysahu987)          | 2022CSB1087  |
-
 
 ## Traces 
 
